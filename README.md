@@ -1,4 +1,4 @@
-# Página Web Barbería
+# 💻 Página Web Barbería
 
 ## Curso lógica de programación con JavaScript
 
